@@ -5,7 +5,6 @@ import com.rimmelasghar.boilerplate.springboot.security.dto.AuthenticatedUserDto
 import com.rimmelasghar.boilerplate.springboot.security.dto.RegistrationRequest;
 import com.rimmelasghar.boilerplate.springboot.security.dto.RegistrationResponse;
 
-// rimmel asghar
 public interface UserService {
 
 	User findByUsername(String username);

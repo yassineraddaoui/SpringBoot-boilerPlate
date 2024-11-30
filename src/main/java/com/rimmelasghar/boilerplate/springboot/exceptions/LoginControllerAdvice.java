@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import java.time.LocalDateTime;
 
-// rimmel asghar
 @RestControllerAdvice(basePackageClasses = LoginController.class)
 public class LoginControllerAdvice {
 

@@ -4,7 +4,6 @@ import lombok.*;
 
 import javax.persistence.*;
 
-// rimmel asghar
 @Getter
 @Setter
 @Entity

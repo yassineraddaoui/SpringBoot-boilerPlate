@@ -1,5 +1,3 @@
-![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/springboot-boilerplate.jpg)
-
 # Spring-Boot BoilerPlate
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -19,7 +17,7 @@ Spring Boot Boilerplate is an advanced foundation designed to facilitate the dev
 
 ## Installation
 ```
-$ git clone https://github.com/rimmelasghar/SpringBoot-boilerPlate.git
+$ git clone https://github.com/yassineraddaoui/SpringBoot-boilerPlate.git
 $ cd SpringBoot-boilerPlate
 ```
 
@@ -31,7 +29,7 @@ DB_ROOT_PASSWORD=mySecretRootPass
 MYSQL_DATABASE=yourdbname
 MYSQL_USER=yourdbusername
 MYSQL_PASSWORD=dbpasswword
-JWT_ISSUER=https://github.com/rimmelasghar
+JWT_ISSUER=https://github.com/yassineraddaoui
 SWAGGER_CONTACT_MAIL=youremail
 SWAGGER_CONTACT_URL=yourwebsite
 SWAGGER_APP_NAME=Spring Boot Boilerplate Project
@@ -75,13 +73,7 @@ Now, your application will be up and running. You can access it in your web brow
 
 These features collectively form a strong foundation for developing production-ready Spring Boot applications, saving development time and effort and ensuring best practices are followed throughout the development process.
 
-## Documentation
-- Swagger UI:
-  ![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/swagger-1.jpg)
-- Get Request:
-  ![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/swagger-2.jpg)
-  
-  
+
 ## Contributing
 
 To contribute to this project, follow these steps:
@@ -97,8 +89,3 @@ To contribute to this project, follow these steps:
 This project is licensed under the MIT License.
 
 ## Contact
-
-
-Reach out to me ```rimmelasghar4@gmail.com```
-
-made by Rimmel Asghar with ❤️
